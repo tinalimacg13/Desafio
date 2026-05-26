@@ -1,4 +1,4 @@
-title = "Gitleaks - Desafio DevSecOps"
+	title = "Gitleaks - Desafio DevSecOps"
 
 [extend]
 useDefault = true
@@ -21,3 +21,4 @@ paths = [
   	'''gitleaks-web/gitleaks-report\.json''',
   '''gitleaks-report\.sarif''',
 ]
+
