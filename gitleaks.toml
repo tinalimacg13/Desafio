@@ -20,3 +20,4 @@ description = "Não escanear os próprios artefatos de relatório do Gitleaks"
 paths = [
   	'''gitleaks-web/gitleaks-report\.json''',
   '''gitleaks-report\.sarif''',
+]
